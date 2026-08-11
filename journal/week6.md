@@ -12,3 +12,4 @@ Why:
 | Filled?          | Yes, 14:32 |
 
 Next decision: exit rule if AAPL drops below 224 (-2.7%).
+[Mid-quote at submission](week6-order.png.png)
