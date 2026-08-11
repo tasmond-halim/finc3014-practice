@@ -7,4 +7,4 @@ Amazon.com
 Tesla, Inc
 
 ## One market story that hooked me
-<Two sentences in your own words -- put the **key number** in bold.>
+Doing this just for fun
